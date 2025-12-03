@@ -6,7 +6,8 @@ What are the modifications you made to the game?
 	Major Mod: When pressing space, the player shoots red particles that can destroy the enemy while a shooting audio plays each time
 
 What's the biggest challenge you have so far?
-	- The player footsteps audio was overriding the shooting audio so there was some issues trying to find the right code to allow the shooting audio to actually play when attacking
+Camila:	- The player footsteps audio was overriding the shooting audio so there was some issues trying to find the right code to allow the shooting audio to actually play when attacking
+Monique: - The coding for the particles whenever you press space and it would kill the enemy. At the beginning it was tricky but once you understand it, you're able to do it.
 
 Will you continue working on this assignment? If yes, what might be some changes you will add later?
 Camila: 	- Don't plan on it!
@@ -17,4 +18,5 @@ Google Drive Link:
 
 Youtube Playthrough Video Link:
 	https://youtu.be/a_nHOY8LpMs
+
 
